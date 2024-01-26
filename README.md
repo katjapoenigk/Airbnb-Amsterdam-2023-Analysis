@@ -40,8 +40,7 @@ For this project, the following Python libraries were used:
   - Supervised Machine Learning: Regression Analysis
   - k-means & Unsupervised Machine Learning: Cluster Analysis
   - Time Series Analysis
-- Using Anaconda libraries manager & Jupyter Notebooks
-- Creating repositories on GitHub
+
 
  ## Project Deliverables
 [Tableau Final Results Presentation](https://public.tableau.com/shared/8S4KNZQC7?:display_count=n&:origin=viz_share_link) 
