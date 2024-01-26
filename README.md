@@ -1,7 +1,7 @@
 # Airbnb_Amsterdam_2023_Analysis
 
 ## Background
-- Airbnb is an online platform that facilitates short-term lodging rentals, connecting hosts with individuals seeking accommodations in various locations worldwide.
+- Airbnb is an online platform that facilitates short-term lodging rentals, connecting hosts with individuals seeking accommodations in various locations worldwide. This Analysis focuses on the Airbnb data of Amsterdam, Netherland. 
 
 ## Data
 - 3 CSV files + 1 GeoJSON file
