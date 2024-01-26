@@ -44,5 +44,5 @@ For this project, the following Python libraries were used:
 - Creating repositories on GitHub
 
  ## Project Deliverables
-[Tableau Final Results Presentation](https://public.tableau.com/shared/8S4KNZQC7?:display_count=n&:origin=viz_share_link) including: 
+[Tableau Final Results Presentation](https://public.tableau.com/shared/8S4KNZQC7?:display_count=n&:origin=viz_share_link) 
 
